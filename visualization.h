@@ -2,7 +2,7 @@
 #define VISUALIZATION_H
 
 #include "line_surface_intersection.cuh"
-#include <glut.h>
+#include <GL/glut.h>
 #include <vector>
 
 using namespace std;
